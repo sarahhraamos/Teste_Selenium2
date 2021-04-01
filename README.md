@@ -9,8 +9,8 @@
 <br>
 
 ## Casos de Teste :red_circle: <br>
-Entrar no [site](https://vendas-aula.herokuapp.com/) e fazer o cadastro de cliente
-<b>Cenario:<b> Cadastrar cliente<br>
+Entrar no [site](https://vendas-aula.herokuapp.com/) e fazer o cadastro de cliente<br>
+<b>Cenario:</b> Cadastrar cliente<br>
     Dado que estou no site de vendas-aula<br>
     E devo clicar na aba cliente<br>
     E clico em novo<br>
