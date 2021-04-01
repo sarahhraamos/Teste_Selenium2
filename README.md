@@ -9,7 +9,7 @@
 <br>
 
 ## Casos de Teste :red_circle: <br>
-Entrar no [site](https://vendas-aula.herokuapp.com/) e fazer o cadastro de cliente<br>
+Entrar no [site](https://vendas-aula.herokuapp.com/) e preencher os formulários<br>
 <b>Cenario:</b> Cadastrar cliente<br>
     Dado que estou no site de vendas-aula<br>
     E devo clicar na aba cliente<br>
@@ -18,10 +18,35 @@ Entrar no [site](https://vendas-aula.herokuapp.com/) e fazer o cadastro de clien
     E devo preencher o telefone com "4002892"<br>
     E devo preencher o email com "@gmail.com"<br>
     Entao devo clicar em salvar<br>
-  
+<br>
+<br>
+<b>Cenário 2:</b> Cadastrar pedido<br>
+    Dado que clico em pedidos<br>
+    E clico em novo<br>
+    E escolho um cliente vinculado<br>
+    Entao devo clicar em salvar<br>
+    E clico em voltar <br>
+    E clico em itens<br>
+    E clico em novo<br>
+    Entao devo preencher o valor do produto com "200"<br>
+    Entao devo clicar em salvar<br>
+<br>
+<br>
+<b>Cenario 3:</b> Cadastrar produto<br>
+    Dado que clico em produtos<br>
+    E clico em novo<br>
+    E preencho o nome do produto com "Bola"<br>
+    E preencho descricao com "nao sei"<br>
+    E preencho quantidade com "50"<br>
+    E preencho vencimento com "12022015402232"<br>
+    E preencho  com preco compra com "10"<br>
+    E preencho  com preco venda com "20"<br>
+    Entao devo clicar em salvar<br>
+    E fecho a aplicacao<br>
   <br>
   <br>
-  ## Tecnologias utilizadas :heart_eyes: <br>
+  <br>
+## Tecnologias utilizadas :heart_eyes: <br>
  :white_check_mark: <b>Java</b><br>
 > Linguagem de programação para desenvolvimento da aplicação.<br>
  
