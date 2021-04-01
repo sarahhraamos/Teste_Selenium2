@@ -69,9 +69,9 @@
 - Instalar [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 - Verificar se o JAVA_HOME está configurado em seu computador.
 - Clone do projeto.<br>
-`` git clone https://github.com/sarahhraamos/TesteIndividual_Accenture.git ``
+`` git clone https://github.com/sarahhraamos/Teste_Selenium2.git ``
 - Entrando na pasta do projeto<br>
-`` cd TesteIndividual_Accenture ``
+`` cd Teste_Selenium2 ``
 - Fazer o download do [Chrome Webdriver](https://chromedriver.chromium.org/downloads) e colocar o arquivo descompactado dentro da pasta driver na raiz do projeto:<br>
 <b>Exemplo:</b><br>
 ``cd driver``<br>
