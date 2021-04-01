@@ -9,7 +9,7 @@
 <br>
 
 ## Casos de Teste :red_circle: <br>
-Entrar no [site](https://vendas-aula.herokuapp.com/) e preencher os formulários<br>
+<b>Funcionalidade: </b>Entrar no [site](https://vendas-aula.herokuapp.com/) e preencher os formulários<br>
 <b>Cenario:</b> Cadastrar cliente<br>
     Dado que estou no site de vendas-aula<br>
     E devo clicar na aba cliente<br>
